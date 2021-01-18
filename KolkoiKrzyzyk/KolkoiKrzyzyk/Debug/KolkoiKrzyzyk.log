@@ -1,0 +1,7 @@
+﻿  Gierka.cpp
+  MyForm.cpp
+C:\Users\TimiN\Desktop\c++\KolkoiKrzyzyk\KolkoiKrzyzyk\MyForm.cpp(10,15): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  .NETFramework,Version=v4.7.1.AssemblyAttributes.cpp
+  Generowanie kodu...
+  Gierka.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  KolkoiKrzyzyk.vcxproj -> C:\Users\TimiN\Desktop\c++\KolkoiKrzyzyk\Debug\KolkoiKrzyzyk.exe
