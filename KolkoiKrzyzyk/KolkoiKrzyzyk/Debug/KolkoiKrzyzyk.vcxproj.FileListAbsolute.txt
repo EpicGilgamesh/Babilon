@@ -1,0 +1,3 @@
+C:\Users\TimiN\Desktop\c++\KolkoiKrzyzyk\KolkoiKrzyzyk\Debug\KolkoiKrzyzyk.Gierka.resources
+C:\Users\TimiN\Desktop\c++\KolkoiKrzyzyk\KolkoiKrzyzyk\Debug\KolkoiKrzyzyk.Myform.resources
+C:\Users\TimiN\Desktop\c++\KolkoiKrzyzyk\KolkoiKrzyzyk\Debug\KolkoiKrzyzyk.vcxproj.GenerateResource.cache
